@@ -120,3 +120,6 @@
   # postgresql9_pg_stat_statements "todo" - Not done
   
 # end
+
+# PDFtk recipe
+require_recipe "pdftk"
